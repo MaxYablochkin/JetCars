@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JetCars</string>
+    <string name="start_btn">ПОЧАТИ</string>
+    <string name="score">Рахунок</string>
+    <string name="game_over">Кінець гри!</string>
+    <string name="tap_to_restart">Натисніть, щоб перезапустити</string>
+    <string name="results">Результати</string>
+</resources>
