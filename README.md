@@ -16,4 +16,10 @@ You control a car and avoid obstacles to get the highest score.
 ## 📦 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/JetGame.git
+   git clone https://github.com/MaxYablochkin/JetCars.git
+<img width="1080" height="2400" alt="Screenshot_20250813_180553" src="https://github.com/user-attachments/assets/360e6541-1d7d-4a8c-a040-f64b9ed7126d" />
+<img width="1080" height="2400" alt="Screenshot_20250813_180605" src="https://github.com/user-attachments/assets/0c23fb52-5424-44a8-9865-57cdc077818c" />
+<img width="1080" height="2400" alt="Screenshot_20250813_180640" src="https://github.com/user-attachments/assets/922a81e2-3c74-4880-9caa-818d97d807eb" />
+<img width="1080" height="2400" alt="Screenshot_20250813_180711" src="https://github.com/user-attachments/assets/68c46aef-fe68-4c1c-9c9b-4939dd975185" />
+
+https://drive.google.com/file/d/1RUyX-8xPVfpLqVyHVHY6_yeYdZW7gj9p/view?usp=sharing
