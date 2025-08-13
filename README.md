@@ -12,6 +12,15 @@ You control a car and avoid obstacles to get the highest score.
 ## 🕹 Controls
 - **Left** button → move the car to the left.
 - **Right** button → move the car to the right.
+  
+## 💫 Technologies
+- **Kotlin**
+- **Jetpack Compose**
+- **Kotlin Coroutines / Flows**
+- **Hilt**
+- **Compose Navigation**
+- **Material Design 3 Expressive**
+- **Room**
 
 ## 📦 How to Run
 1. Clone this repository:
